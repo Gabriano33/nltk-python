@@ -1,0 +1,91 @@
+
+Analisi del corpus: Primo Corpus, The Trap by H.P. Lovecraft
+================================
+Numero di frasi nel corpus: 247
+Numero di token nel corpus: 6334
+Lunghezza media delle frasi nel corpus: 29.299595141700404
+Lunghezza media dei token nel corpus: 4.707293969055889
+Numero di hapax nei primi 500 token: 199
+Numero di hapax nei primi 1000 token: 318
+Numero di hapax nei primi 3000 token: 706
+Numero di hapax nel corpus: 1111
+Dimensioni del vocabolario per porzioni incrementali di 200 tokens:
+  200 tokens: 0.62
+  400 tokens: 0.5375
+  600 tokens: 0.5116666666666667
+  800 tokens: 0.465
+  1000 tokens: 0.443
+  1200 tokens: 0.41333333333333333
+  1400 tokens: 0.4
+  1600 tokens: 0.38875
+  1800 tokens: 0.39
+  2000 tokens: 0.383
+  2200 tokens: 0.37863636363636366
+  2400 tokens: 0.3695833333333333
+  2600 tokens: 0.36115384615384616
+  2800 tokens: 0.35
+  3000 tokens: 0.3463333333333333
+  3200 tokens: 0.338125
+  3400 tokens: 0.33176470588235296
+  3600 tokens: 0.3258333333333333
+  3800 tokens: 0.3215789473684211
+  4000 tokens: 0.31725
+  4200 tokens: 0.3130952380952381
+  4400 tokens: 0.30772727272727274
+  4600 tokens: 0.30717391304347824
+  4800 tokens: 0.3070833333333333
+  5000 tokens: 0.3038
+  5200 tokens: 0.3
+  5400 tokens: 0.2953703703703704
+  5600 tokens: 0.29232142857142857
+  5800 tokens: 0.2882758620689655
+  6000 tokens: 0.2836666666666667
+  6200 tokens: 0.2814516129032258
+Numero di lemmi distinti nel corpus: 1706
+Numero di frasi con polarità negativa nel corpus: 88
+Numero di frasi con polarità positiva nel corpus: 97
+
+Analisi del corpus: Secondo Corpus, The Inequality of Human Races by Arthur de Gobineau
+================================
+Numero di frasi nel corpus: 203
+Numero di token nel corpus: 6046
+Lunghezza media delle frasi nel corpus: 33.83743842364532
+Lunghezza media dei token nel corpus: 4.533245120740986
+Numero di hapax nei primi 500 token: 177
+Numero di hapax nei primi 1000 token: 303
+Numero di hapax nei primi 3000 token: 656
+Numero di hapax nel corpus: 1098
+Dimensioni del vocabolario per porzioni incrementali di 200 tokens:
+  200 tokens: 0.64
+  400 tokens: 0.5175
+  600 tokens: 0.46166666666666667
+  800 tokens: 0.4325
+  1000 tokens: 0.421
+  1200 tokens: 0.4025
+  1400 tokens: 0.38785714285714284
+  1600 tokens: 0.375
+  1800 tokens: 0.37
+  2000 tokens: 0.3605
+  2200 tokens: 0.35045454545454546
+  2400 tokens: 0.34458333333333335
+  2600 tokens: 0.3373076923076923
+  2800 tokens: 0.3317857142857143
+  3000 tokens: 0.32566666666666666
+  3200 tokens: 0.321875
+  3400 tokens: 0.315
+  3600 tokens: 0.30944444444444447
+  3800 tokens: 0.3042105263157895
+  4000 tokens: 0.30225
+  4200 tokens: 0.29833333333333334
+  4400 tokens: 0.295
+  4600 tokens: 0.28956521739130436
+  4800 tokens: 0.28875
+  5000 tokens: 0.2894
+  5200 tokens: 0.28442307692307695
+  5400 tokens: 0.2838888888888889
+  5600 tokens: 0.28125
+  5800 tokens: 0.2798275862068966
+  6000 tokens: 0.2763333333333333
+Numero di lemmi distinti nel corpus: 1562
+Numero di frasi con polarità negativa nel corpus: 81
+Numero di frasi con polarità positiva nel corpus: 78

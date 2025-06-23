@@ -1,0 +1,84 @@
+Top 50 Sostantivi: [('i', 91), ('mirror', 36), ('robert', 35), ('glass', 27), ('morning', 12), ('time', 12), ('school', 11), ('world', 11), ('holm', 11), ('s', 10), ('anything', 9), ('day', 8), ('grandison', 8), ('point', 8), ('boy', 8), ('mind', 8), ('life', 8), ('case', 7), ('disappearance', 7), ('scenes', 7), ('scene', 7), ('browne', 6), ('chair', 6), ('number', 6), ('course', 6), ('impressions', 6), ('form', 6), ('everything', 6), ('objects', 6), ('surface', 6), ('thing', 5), ('something', 5), ('years', 5), ('hallway', 5), ('boys', 5), ('finger', 5), ('afternoon', 5), ('place', 5), ('speech', 5), ('aspect', 5), ('dream', 5), ('release', 5), ('sense', 5), ('space', 5), ('trap', 4), ('motion', 4), ('door', 4), ('period', 4), ('room', 4), ('hand', 4)]
+
+
+
+Top 50 Avverbi: [('not', 32), ('so', 14), ('very', 13), ('most', 10), ('then', 9), ('rather', 9), ('even', 8), ('yet', 8), ('i', 7), ('once', 7), ('as', 7), ('never', 7), ('back', 6), ('only', 6), ('quite', 6), ('far', 6), ('indeed', 6), ('just', 5), ('long', 5), ('here', 5), ('more', 5), ('finally', 5), ('thus', 5), ('now', 4), ('later', 4), ('away', 4), ('directly', 4), ('suddenly', 4), ('again', 4), ('actually', 4), ('fully', 4), ('almost', 4), ('wholly', 4), ('curiously', 4), ('alone', 3), ('soon', 3), ('especially', 3), ('accordingly', 3), ('down', 3), ('however', 3), ('still', 3), ('no', 3), ('longer', 3), ('apparently', 3), ('desperately', 3), ('enough', 3), ('too', 3), ('well', 3), ('also', 3), ('really', 3)]
+
+
+
+Top 50 Aggettivi: [('certain', 16), ('such', 14), ('more', 11), ('strange', 11), ('other', 10), ('s', 10), ('old', 9), ('little', 9), ('long', 9), ('telepathic', 9), ('first', 8), ('own', 8), ('i', 8), ('robert', 8), ('ancient', 6), ('same', 6), ('clear', 5), ('possible', 5), ('mental', 5), ('spatial', 5), ('gray', 5), ('small', 5), ('whole', 4), ('larger', 4), ('curious', 4), ('lower', 4), ('visible', 4), ('odd', 4), ('fourth', 4), ('definite', 4), ('various', 4), ('apparent', 4), ('most', 4), ('outside', 4), ('second', 3), ('slight', 3), ('exact', 3), ('large', 3), ('normal', 3), ('general', 3), ('young', 3), ('deep', 3), ('smaller', 3), ('human', 3), ('different', 3), ('natural', 3), ('incredible', 3), ('blue', 3), ('physical', 3), ('transient', 3)]
+
+
+
+Top 20 2-grammi: [(('of', 'the'), 53), (('in', 'the'), 31), (('the', 'mirror'), 21), (('to', 'the'), 19), (('the', 'glass'), 18), (('i', 'had'), 18), (('he', 'had'), 17), (('it', 'was'), 16), (('had', 'been'), 13), (('into', 'the'), 13), (('robert', 's'), 13), (('that', 'the'), 12), (('at', 'the'), 12), (('on', 'the'), 12), (('was', 'a'), 12), (('from', 'the'), 11), (('and', 'the'), 11), (('i', 'was'), 10), (('of', 'my'), 10), (('with', 'the'), 10)]
+
+
+
+Top 20 3-grammi: [(('i', 'could', 'not'), 5), (('of', 'the', 'mirror'), 4), (('a', 'kind', 'of'), 4), (('any', 'of', 'the'), 4), (('reflected', 'in', 'the'), 3), (('the', 'old', 'mirror'), 3), (('to', 'the', 'mirror'), 3), (('the', 'ancient', 'glass'), 3), (('inside', 'the', 'glass'), 3), (('i', 'had', 'seen'), 3), (('of', 'the', 'most'), 3), (('into', 'the', 'glass'), 3), (('a', 'number', 'of'), 3), (('robert', 'had', 'been'), 3), (('the', 'fact', 'that'), 3), (('the', 'mirror', 's'), 3), (('must', 'have', 'been'), 3), (('the', 'outside', 'world'), 3), (('in', 'case', 'of'), 3), (('i', 'thought', 'i'), 2)]
+
+
+
+Top 20 4-grammi: [(('i', 'thought', 'i', 'saw'), 2), (('as', 'though', 'it', 'were'), 2), (('though', 'it', 'were', 'pulling'), 2), (('it', 'were', 'pulling', 'my'), 2), (('were', 'pulling', 'my', 'finger'), 2), (('pulling', 'my', 'finger', 'into'), 2), (('in', 'the', 'ancient', 'glass'), 2), (('at', 'the', 'same', 'time'), 2), (('browne', 'and', 'his', 'wife'), 2), (('had', 'to', 'do', 'with'), 2), (('to', 'do', 'with', 'the'), 2), (('to', 'communicate', 'with', 'me'), 2), (('will', 'not', 'seem', 'strange'), 2), (('on', 'the', 'morning', 'of'), 2), (('for', 'robert', 's', 'release'), 2), (('as', 'robert', 'had', 'been'), 2), (('absence', 'of', 'transient', 'objects'), 2), (('been', 'reflected', 'in', 'the'), 2), (('reflected', 'in', 'the', 'mirror'), 2), (('the', 'mirror', 's', 'surface'), 2)]
+
+
+
+Top 20 5-grammi: [(('as', 'though', 'it', 'were', 'pulling'), 2), (('though', 'it', 'were', 'pulling', 'my'), 2), (('it', 'were', 'pulling', 'my', 'finger'), 2), (('were', 'pulling', 'my', 'finger', 'into'), 2), (('had', 'to', 'do', 'with', 'the'), 2), (('been', 'reflected', 'in', 'the', 'mirror'), 2), (('the', 'trap', 'by', 'lovecraft', 'it'), 1), (('trap', 'by', 'lovecraft', 'it', 'was'), 1), (('by', 'lovecraft', 'it', 'was', 'on'), 1), (('lovecraft', 'it', 'was', 'on', 'a'), 1), (('it', 'was', 'on', 'a', 'certain'), 1), (('was', 'on', 'a', 'certain', 'thursday'), 1), (('on', 'a', 'certain', 'thursday', 'morning'), 1), (('a', 'certain', 'thursday', 'morning', 'in'), 1), (('certain', 'thursday', 'morning', 'in', 'december'), 1), (('thursday', 'morning', 'in', 'december', 'that'), 1), (('morning', 'in', 'december', 'that', 'the'), 1), (('in', 'december', 'that', 'the', 'whole'), 1), (('december', 'that', 'the', 'whole', 'thing'), 1), (('that', 'the', 'whole', 'thing', 'began'), 1)]
+
+
+
+Top 20 6-grammi: [(('as', 'though', 'it', 'were', 'pulling', 'my'), 2), (('though', 'it', 'were', 'pulling', 'my', 'finger'), 2), (('it', 'were', 'pulling', 'my', 'finger', 'into'), 2), (('the', 'trap', 'by', 'lovecraft', 'it', 'was'), 1), (('trap', 'by', 'lovecraft', 'it', 'was', 'on'), 1), (('by', 'lovecraft', 'it', 'was', 'on', 'a'), 1), (('lovecraft', 'it', 'was', 'on', 'a', 'certain'), 1), (('it', 'was', 'on', 'a', 'certain', 'thursday'), 1), (('was', 'on', 'a', 'certain', 'thursday', 'morning'), 1), (('on', 'a', 'certain', 'thursday', 'morning', 'in'), 1), (('a', 'certain', 'thursday', 'morning', 'in', 'december'), 1), (('certain', 'thursday', 'morning', 'in', 'december', 'that'), 1), (('thursday', 'morning', 'in', 'december', 'that', 'the'), 1), (('morning', 'in', 'december', 'that', 'the', 'whole'), 1), (('in', 'december', 'that', 'the', 'whole', 'thing'), 1), (('december', 'that', 'the', 'whole', 'thing', 'began'), 1), (('that', 'the', 'whole', 'thing', 'began', 'with'), 1), (('the', 'whole', 'thing', 'began', 'with', 'that'), 1), (('whole', 'thing', 'began', 'with', 'that', 'unaccountable'), 1), (('thing', 'began', 'with', 'that', 'unaccountable', 'motion'), 1)]
+
+
+
+Top 20 1-grammi di PoS: [(('NN',), 1157), (('IN',), 931), (('DT',), 685), (('JJ',), 625), (('VBD',), 471), (('RB',), 428), (('CC',), 266), (('NNS',), 265), (('PRP',), 225), (('VBN',), 220), (('VB',), 198), (('PRP$',), 168), (('TO',), 148), (('VBG',), 137), (('MD',), 82), (('WDT',), 53), (('VBP',), 40), (('VBZ',), 32), (('WRB',), 32), (('JJR',), 29)]
+
+
+
+Top 20 2-grammi di PoS: [(('NN', 'IN'), 354), (('IN', 'DT'), 343), (('DT', 'NN'), 323), (('JJ', 'NN'), 310), (('DT', 'JJ'), 217), (('NN', 'VBD'), 191), (('IN', 'NN'), 146), (('NN', 'NN'), 126), (('NN', 'CC'), 123), (('JJ', 'NNS'), 106), (('PRP', 'VBD'), 103), (('VBD', 'RB'), 101), (('IN', 'JJ'), 96), (('IN', 'PRP$'), 92), (('RB', 'IN'), 90), (('PRP$', 'NN'), 87), (('TO', 'VB'), 86), (('NNS', 'IN'), 83), (('VBN', 'IN'), 79), (('VBD', 'VBN'), 79)]
+
+
+
+Top 20 3-grammi di PoS: [(('IN', 'DT', 'NN'), 172), (('DT', 'JJ', 'NN'), 146), (('DT', 'NN', 'IN'), 130), (('NN', 'IN', 'DT'), 123), (('JJ', 'NN', 'IN'), 112), (('IN', 'DT', 'JJ'), 105), (('NN', 'IN', 'NN'), 66), (('IN', 'PRP$', 'NN'), 46), (('NN', 'VBD', 'RB'), 45), (('NN', 'IN', 'PRP$'), 43), (('NN', 'IN', 'JJ'), 42), (('IN', 'JJ', 'NN'), 39), (('NN', 'NN', 'VBD'), 38), (('NN', 'CC', 'NN'), 38), (('RB', 'IN', 'DT'), 38), (('DT', 'NN', 'VBD'), 38), (('JJ', 'NN', 'VBD'), 37), (('NN', 'VBD', 'VBN'), 37), (('JJ', 'NN', 'CC'), 37), (('JJ', 'NNS', 'IN'), 35)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per frequenza: [(('ancient', 'glass'), 4), (('old', 'mirror'), 3), (('robert', 's'), 3), (('outside', 'world'), 3), (('thursday', 'morning'), 2), (('same', 'time'), 2), (('such', 'impressions'), 2), (('apparent', 'size'), 2), (('deep', 'slumber'), 2), (('ancient', 'mirror'), 2)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per probabilità condizionata: [(('thursday', 'morning'), 1.0), (('pure', 'illusion'), 1.0), (('interrupted', 'brushing'), 1.0), (('santa', 'cruz'), 1.0), (('northside', 'territory'), 1.0), (('united', 'states'), 1.0), (('venerable', 'glass'), 1.0), (('graceful', 'ornamentation'), 1.0), (('detached', 'pieces'), 1.0), (('private', 'school'), 1.0)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per probabilità congiunta: [(('ancient', 'glass'), 0.0006315124723713293), (('old', 'mirror'), 0.000473634354278497), (('robert', 's'), 0.000473634354278497), (('outside', 'world'), 0.000473634354278497), (('thursday', 'morning'), 0.00031575623618566466), (('same', 'time'), 0.00031575623618566466), (('such', 'impressions'), 0.00031575623618566466), (('apparent', 'size'), 0.00031575623618566466), (('deep', 'slumber'), 0.00031575623618566466), (('ancient', 'mirror'), 0.00031575623618566466)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per MI: [(('interrupted', 'brushing'), 6334.0), (('santa', 'cruz'), 6334.0), (('northside', 'territory'), 6334.0), (('united', 'states'), 6334.0), (('graceful', 'ornamentation'), 6334.0), (('detached', 'pieces'), 6334.0), (('windy', 'connecticut'), 6334.0), (('unused', 'wing'), 6334.0), (('low', 'temperatures'), 6334.0), (('acute', 'sufferer'), 6334.0)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per LMI: [(('interrupted', 'brushing'), 6334.0), (('santa', 'cruz'), 6334.0), (('northside', 'territory'), 6334.0), (('united', 'states'), 6334.0), (('graceful', 'ornamentation'), 6334.0), (('detached', 'pieces'), 6334.0), (('windy', 'connecticut'), 6334.0), (('unused', 'wing'), 6334.0), (('low', 'temperatures'), 6334.0), (('acute', 'sufferer'), 6334.0)]
+
+
+
+Numero di elementi comuni tra top 10 per MI e LMI: 10
+
+
+
+Frase con media distribuzione di frequenza più alta: By the fourth day the case had settled down in the opinion of the school as an insoluble mystery.
+
+
+
+Frase con media distribuzione di frequenza più bassa: There is no opposite for gray—or rather, it is its own opposite.
+
+
+
+Frase con probabilità più alta secondo un modello di Markov di ordine 2: He sat down to study in front of the fireplace in a comfortable chair.
+
+
+
+Top 15 entità nominate per ciascuna classe: {'PERSON': [('Robert', 44), ('Holm', 11), ('Robert Grandison', 7), ('Browne', 4), ('Lovecraft IT', 1), ('Mr. Canevin', 1), ('Mr.', 1), ('Grandison', 1), ('Christmas', 1), ('Freud', 1), ('Jung', 1), ('Adler', 1), ('Hardly', 1), ('English', 1), ('Einstein', 1)], 'GPE': [('Browne', 2), ('Scandinavian', 2), ('Santa', 1), ('Northside', 1), ('United States', 1), ('Dormitory', 1), ('Pennsylvania', 1), ('Boys', 1), ('Norfolk', 1), ('Anyone', 1), ('Nutriment', 1), ('Robert', 1), ('Various', 1), ('Copenhagen', 1), ('Europe', 1)], 'ORGANIZATION': [('Virgin Islands', 1), ('Dane', 1), ('Axel Holm', 1)], 'LOCATION': [('West', 1), ('West Indies', 1)]}
+
+
+

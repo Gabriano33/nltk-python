@@ -1,0 +1,84 @@
+Top 50 Sostantivi: [('i', 23), ('time', 20), ('societies', 17), ('men', 16), ('fall', 13), ('world', 13), ('people', 13), ('corruption', 13), ('peoples', 12), ('society', 12), ('day', 11), ('death', 11), ('nation', 10), ('empire', 10), ('morals', 10), ('civilizations', 9), ('states', 9), ('state', 9), ('fact', 8), ('reason', 8), ('luxury', 8), ('fanaticism', 8), ('way', 8), ('causes', 7), ('rome', 7), ('end', 7), ('ideas', 7), ('religion', 7), ('age', 7), ('history', 6), ('life', 6), ('point', 6), ('country', 6), ('ages', 6), ('sense', 6), ('truth', 6), ('virtue', 6), ('athens', 6), ('theory', 6), ('century', 6), ('power', 6), ('faith', 6), ('existence', 5), ('principle', 5), ('destruction', 5), ('view', 5), ('influence', 5), ('government', 5), ('ruin', 5), ('nations', 5)]
+
+
+
+Top 50 Avverbi: [('not', 63), ('so', 19), ('very', 14), ('even', 12), ('most', 11), ('however', 10), ('thus', 10), ('far', 10), ('only', 9), ('yet', 8), ('never', 8), ('merely', 8), ('more', 8), ('certainly', 6), ('necessarily', 6), ('always', 5), ('sometimes', 5), ('now', 5), ('as', 5), ('still', 5), ('ever', 5), ('then', 4), ('less', 4), ('too', 4), ('further', 4), ('also', 3), ('soon', 3), ('here', 3), ('together', 3), ('just', 3), ('little', 3), ('once', 3), ('usually', 3), ('often', 3), ('quite', 3), ('first', 3), ('actually', 3), ('again', 3), ('well', 3), ('already', 2), ('long', 2), ('generally', 2), ('finally', 2), ('really', 2), ('definitely', 2), ('vividly', 1), ('imperiously', 1), ('driven', 1), ('firmly', 1), ('adhere', 1)]
+
+
+
+Top 50 Aggettivi: [('great', 17), ('i', 11), ('same', 8), ('many', 8), ('other', 8), ('little', 8), ('human', 7), ('more', 7), ('religious', 7), ('real', 7), ('modern', 6), ('last', 6), ('certain', 6), ('early', 6), ('own', 6), ('moral', 6), ('greater', 6), ('good', 6), ('such', 6), ('mortal', 5), ('ancient', 5), ('better', 5), ('social', 4), ('first', 4), ('natural', 4), ('political', 4), ('later', 4), ('false', 4), ('different', 4), ('whole', 4), ('roman', 4), ('general', 3), ('mere', 3), ('former', 3), ('sacred', 3), ('true', 3), ('least', 3), ('eighteenth', 3), ('upper', 3), ('most', 3), ('public', 3), ('small', 3), ('long', 3), ('higher', 3), ('high', 3), ('common', 2), ('mysterious', 2), ('deep', 2), ('uniform', 2), ('fixed', 2)]
+
+
+
+Top 20 2-grammi: [(('of', 'the'), 78), (('in', 'the'), 46), (('and', 'the'), 28), (('to', 'the'), 27), (('that', 'the'), 17), (('by', 'the'), 16), (('at', 'the'), 14), (('all', 'the'), 13), (('for', 'the'), 12), (('it', 'is'), 11), (('to', 'be'), 11), (('of', 'a'), 11), (('with', 'the'), 10), (('from', 'the'), 10), (('they', 'were'), 10), (('the', 'fall'), 9), (('fall', 'of'), 9), (('as', 'the'), 9), (('of', 'their'), 9), (('the', 'same'), 8)]
+
+
+
+Top 20 3-grammi: [(('the', 'fall', 'of'), 9), (('corruption', 'of', 'morals'), 7), (('the', 'corruption', 'of'), 5), (('the', 'time', 'of'), 5), (('there', 'is', 'no'), 4), (('the', 'ruin', 'of'), 4), (('of', 'all', 'the'), 3), (('when', 'we', 'see'), 3), (('assemblage', 'of', 'men'), 3), (('can', 'not', 'be'), 3), (('of', 'this', 'world'), 3), (('they', 'have', 'not'), 3), (('at', 'any', 'rate'), 3), (('the', 'eighteenth', 'century'), 3), (('in', 'the', 'time'), 3), (('the', 'upper', 'classes'), 3), (('at', 'the', 'time'), 3), (('the', 'theories', 'of'), 3), (('than', 'in', 'the'), 3), (('theories', 'of', 'the'), 3)]
+
+
+
+Top 20 4-grammi: [(('the', 'corruption', 'of', 'morals'), 5), (('in', 'the', 'time', 'of'), 3), (('that', 'every', 'assemblage', 'of'), 2), (('every', 'assemblage', 'of', 'men'), 2), (('unaffected', 'by', 'all', 'the'), 2), (('the', 'fall', 'of', 'states'), 2), (('at', 'the', 'base', 'of'), 2), (('the', 'mortal', 'state', 'of'), 2), (('the', 'wisdom', 'of', 'the'), 2), (('wisdom', 'of', 'the', 'ancients'), 2), (('if', 'you', 'will', 'that'), 2), (('and', 'the', 'corruption', 'of'), 2), (('for', 'the', 'fall', 'of'), 2), (('there', 'is', 'no', 'reason'), 2), (('at', 'any', 'rate', 'the'), 2), (('fanaticism', 'luxury', 'corruption', 'of'), 2), (('luxury', 'corruption', 'of', 'morals'), 2), (('corruption', 'of', 'morals', 'and'), 2), (('of', 'morals', 'and', 'irreligion'), 2), (('morals', 'and', 'irreligion', 'do'), 2)]
+
+
+
+Top 20 5-grammi: [(('that', 'every', 'assemblage', 'of', 'men'), 2), (('the', 'wisdom', 'of', 'the', 'ancients'), 2), (('and', 'the', 'corruption', 'of', 'morals'), 2), (('fanaticism', 'luxury', 'corruption', 'of', 'morals'), 2), (('luxury', 'corruption', 'of', 'morals', 'and'), 2), (('corruption', 'of', 'morals', 'and', 'irreligion'), 2), (('of', 'morals', 'and', 'irreligion', 'do'), 2), (('morals', 'and', 'irreligion', 'do', 'not'), 2), (('and', 'irreligion', 'do', 'not', 'necessarily'), 2), (('the', 'corruption', 'of', 'morals', 'is'), 2), (('of', 'the', 'plain', 'citizens', 'the'), 2), (('the', 'plain', 'citizens', 'the', 'country'), 2), (('plain', 'citizens', 'the', 'country', 'folk'), 2), (('citizens', 'the', 'country', 'folk', 'and'), 2), (('the', 'country', 'folk', 'and', 'the'), 2), (('country', 'folk', 'and', 'the', 'slaves'), 2), (('the', 'mass', 'of', 'the', 'people'), 2), (('the', 'inequality', 'of', 'human', 'races'), 1), (('inequality', 'of', 'human', 'races', 'by'), 1), (('of', 'human', 'races', 'by', 'arthur'), 1)]
+
+
+
+Top 20 6-grammi: [(('fanaticism', 'luxury', 'corruption', 'of', 'morals', 'and'), 2), (('luxury', 'corruption', 'of', 'morals', 'and', 'irreligion'), 2), (('corruption', 'of', 'morals', 'and', 'irreligion', 'do'), 2), (('of', 'morals', 'and', 'irreligion', 'do', 'not'), 2), (('morals', 'and', 'irreligion', 'do', 'not', 'necessarily'), 2), (('of', 'the', 'plain', 'citizens', 'the', 'country'), 2), (('the', 'plain', 'citizens', 'the', 'country', 'folk'), 2), (('plain', 'citizens', 'the', 'country', 'folk', 'and'), 2), (('citizens', 'the', 'country', 'folk', 'and', 'the'), 2), (('the', 'country', 'folk', 'and', 'the', 'slaves'), 2), (('the', 'inequality', 'of', 'human', 'races', 'by'), 1), (('inequality', 'of', 'human', 'races', 'by', 'arthur'), 1), (('of', 'human', 'races', 'by', 'arthur', 'de'), 1), (('human', 'races', 'by', 'arthur', 'de', 'gobineau'), 1), (('races', 'by', 'arthur', 'de', 'gobineau', 'translated'), 1), (('by', 'arthur', 'de', 'gobineau', 'translated', 'by'), 1), (('arthur', 'de', 'gobineau', 'translated', 'by', 'adrian'), 1), (('de', 'gobineau', 'translated', 'by', 'adrian', 'collins'), 1), (('gobineau', 'translated', 'by', 'adrian', 'collins', 'chapter'), 1), (('translated', 'by', 'adrian', 'collins', 'chapter', 'i'), 1)]
+
+
+
+Top 20 1-grammi di PoS: [(('NN',), 986), (('IN',), 921), (('DT',), 823), (('JJ',), 497), (('NNS',), 435), (('RB',), 336), (('CC',), 253), (('PRP',), 219), (('VBD',), 199), (('VB',), 181), (('VBP',), 171), (('VBN',), 168), (('TO',), 160), (('VBZ',), 131), (('PRP$',), 129), (('VBG',), 82), (('MD',), 66), (('WDT',), 61), (('CD',), 35), (('WRB',), 33)]
+
+
+
+Top 20 2-grammi di PoS: [(('NN', 'IN'), 392), (('IN', 'DT'), 391), (('DT', 'NN'), 379), (('DT', 'JJ'), 218), (('JJ', 'NN'), 216), (('IN', 'NN'), 153), (('NNS', 'IN'), 138), (('JJ', 'NNS'), 131), (('DT', 'NNS'), 119), (('NN', 'CC'), 117), (('TO', 'VB'), 88), (('IN', 'JJ'), 74), (('VBN', 'IN'), 71), (('IN', 'PRP$'), 61), (('NN', 'DT'), 60), (('NN', 'NN'), 60), (('IN', 'NNS'), 59), (('RB', 'IN'), 58), (('NNS', 'CC'), 54), (('IN', 'PRP'), 54)]
+
+
+
+Top 20 3-grammi di PoS: [(('DT', 'NN', 'IN'), 198), (('IN', 'DT', 'NN'), 182), (('NN', 'IN', 'DT'), 149), (('DT', 'JJ', 'NN'), 135), (('IN', 'DT', 'JJ'), 101), (('JJ', 'NN', 'IN'), 88), (('NN', 'IN', 'NN'), 77), (('IN', 'DT', 'NNS'), 56), (('DT', 'NNS', 'IN'), 53), (('NNS', 'IN', 'DT'), 53), (('DT', 'JJ', 'NNS'), 52), (('NN', 'IN', 'NNS'), 39), (('NN', 'IN', 'JJ'), 38), (('JJ', 'NNS', 'IN'), 38), (('NN', 'CC', 'NN'), 36), (('IN', 'NN', 'IN'), 35), (('VBN', 'IN', 'DT'), 35), (('IN', 'JJ', 'NNS'), 34), (('NNS', 'IN', 'NN'), 33), (('IN', 'NN', 'CC'), 31)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per frequenza: [(('human', 'societies'), 4), (('eighteenth', 'century'), 3), (('upper', 'classes'), 3), (('mortal', 'disease'), 2), (('violent', 'death'), 2), (('mortal', 'state'), 2), (('later', 'ages'), 2), (('bad', 'government'), 2), (('real', 'causes'), 2), (('whole', 'world'), 2)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per probabilità condizionata: [(('adrian', 'collins'), 1.0), (('remarkable', 'subject'), 1.0), (('successive', 'development'), 1.0), (('intellectual', 'gifts'), 1.0), (('awful', 'silence'), 1.0), (('famous', 'civilizations'), 1.0), (('extreme', 'youth'), 1.0), (('philosophic', 'shudder'), 1.0), (('inevitable', 'death'), 1.0), (('violent', 'death'), 1.0)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per probabilità congiunta: [(('human', 'societies'), 0.0006615944426066821), (('eighteenth', 'century'), 0.0004961958319550116), (('upper', 'classes'), 0.0004961958319550116), (('mortal', 'disease'), 0.0003307972213033411), (('violent', 'death'), 0.0003307972213033411), (('mortal', 'state'), 0.0003307972213033411), (('later', 'ages'), 0.0003307972213033411), (('bad', 'government'), 0.0003307972213033411), (('real', 'causes'), 0.0003307972213033411), (('whole', 'world'), 0.0003307972213033411)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per MI: [(('adrian', 'collins'), 6045.999999999999), (('successive', 'development'), 6045.999999999999), (('awful', 'silence'), 6045.999999999999), (('extreme', 'youth'), 6045.999999999999), (('philosophic', 'shudder'), 6045.999999999999), (('slightest', 'breath'), 6045.999999999999), (('chastisement', 'meet'), 6045.999999999999), (('recogni', 'tion'), 6045.999999999999), (('miraculous', 'element'), 6045.999999999999), (('rationalistic', 'schools'), 6045.999999999999)]
+
+
+
+Top 10 bigrammi (aggettivo-sostantivo) per LMI: [(('adrian', 'collins'), 6045.999999999999), (('successive', 'development'), 6045.999999999999), (('awful', 'silence'), 6045.999999999999), (('extreme', 'youth'), 6045.999999999999), (('philosophic', 'shudder'), 6045.999999999999), (('slightest', 'breath'), 6045.999999999999), (('chastisement', 'meet'), 6045.999999999999), (('recogni', 'tion'), 6045.999999999999), (('miraculous', 'element'), 6045.999999999999), (('rationalistic', 'schools'), 6045.999999999999)]
+
+
+
+Numero di elementi comuni tra top 10 per MI e LMI: 10
+
+
+
+Frase con media distribuzione di frequenza più alta: Did the impious theories of the philosophers succeed at any time in reaching the masses?
+
+
+
+Frase con media distribuzione di frequenza più bassa: So, on this score, there need be no difficulty or hesitation.
+
+
+
+Frase con probabilità più alta secondo un modello di Markov di ordine 2: So, on this score, there need be no difficulty or hesitation.
+
+
+
+Top 15 entità nominate per ciascuna classe: {'ORGANIZATION': [('State', 3), ('Inequality of Human Races', 1), ('MORTAL', 1), ('GENERAL', 1), ('CAUSES', 1), ('COMMON', 1), ('Covenant', 1), ('Catholic Church', 1), ('Divine', 1), ('Voltairean', 1), ('Abbé Raynal', 1), ('LUXURY', 1), ('CORRUPTION OF', 1), ('AND', 1), ('FALL OF', 1)], 'PERSON': [('Rome', 2), ('Tacitus', 2), ('Arthur', 1), ('Gobineau', 1), ('Adrian Collins', 1), ('Hernando Cortes', 1), ('Lucrece', 1), ('Appius Claudius', 1), ('Babylon', 1), ('Harmodius', 1), ('Valerius Publicola', 1), ('Trajan', 1), ('Antoninus Pius', 1), ('Septimius Severus', 1), ('Society', 1)], 'GPE': [('Athens', 6), ('Rome', 5), ('States', 3), ('Egypt', 3), ('Greece', 3), ('France', 3), ('England', 3), ('Assyria', 2), ('Scripture', 2), ('Europe', 2), ('Greeks', 2), ('Russia', 2), ('Greek', 2), ('Roman', 2), ('Add', 1)], 'GSP': [('Constantine', 1)]}
+
+
+
